@@ -1,0 +1,41 @@
+
+body{
+  
+   background-color:#BEBECF;
+  
+}
+.div1{
+
+background-color: blanchedalmond;
+width: 1368px;
+height: 150px;
+margin:-10 -10 -10 -10;
+text-align: center;
+backdrop-filter: blur(100px);
+border: #ccccff;
+border-radius: 10px;
+}
+
+#div2{
+
+    font-size:100px;
+     margin:60 10 10 40;
+}
+ #b{
+  font-size:50px;
+}
+.door img{
+   margin-left: 100px;
+   border: 1px solid black ;
+   border-bottom: 40px solid black;
+
+}
+.door a{
+
+
+color: blue;
+margin-left: -190px;
+font-size: 25px;
+padding-top: 10px;
+outline: none;
+}
